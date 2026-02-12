@@ -13,7 +13,7 @@ Hasil pengerjaan Tes Junior Programmer untuk Fast Print Indonesia.
 - Database : MySQL / PostgreSQL
 - Frontend : Bootstrap 5, SweetAlert2, Bootstrap Icons
 
-## 🚀 Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 
 ### 1. Persiapan Environment
 ## bash
