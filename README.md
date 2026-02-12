@@ -23,3 +23,18 @@ cd testfastprint_IanMikhael
 # Buat dan aktifkan virtual environment
 python -m venv venv
 venv\Scripts\activate     # Untuk Windows
+
+## 📸 Screenshot Tampilan
+
+### 1. Bukti Sinkronisasi Data API
+![Tarik Data](img/Buktiberhasil_TarikData.png)
+
+### 2. Dashboard Katalog Produk
+![Katalog](img/Katalog_Produk.png)
+
+### 3. Fitur Tambah & Edit Produk
+![Tambah](img/Tambah_Produk.png)
+![Edit](img/Edit_Produk.png)
+
+### 4. Konfirmasi Hapus (SweetAlert2)
+![Hapus](img/Konfirmasi_Hapus.png)
